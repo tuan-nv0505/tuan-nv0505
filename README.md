@@ -3,8 +3,8 @@ My name is Tuan Nguyen, and I am a Computer Science student majoring in Artifici
 My main interests include Deep Learning for Computer Vision and Reinforcement Learning.<br>
 
 ## 🌐Socials
-<a href="https://www.linkedin.com/in/tuan-nguyen-bb0054357/" style="text-decoration:none;">
-  <img src="https://i.stack.imgur.com/gVE0j.png"/>LinkedIn
+<a href="https://www.linkedin.com/in/tuan-nguyen-bb0054357/" style="text-decoration:none" target="_blank">
+  <img src="https://i.stack.imgur.com/gVE0j.png" width=14/>LinkedIn
 </a>
 
 # 💻Tech Stack
