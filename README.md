@@ -2,7 +2,7 @@
 My name is Tuan Nguyen, and I am a Computer Science student majoring in Artificial Intelligence (AI).
 My main interests include Deep Learning for Computer Vision and Reinforcement Learning.<br>
 
-## 🌐Socials
+## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tuan-nguyen-bb0054357/)
 
 
@@ -12,7 +12,7 @@ My main interests include Deep Learning for Computer Vision and Reinforcement Le
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
-## 🧠 Artificial Intelligence / Machine Learning
+## 🤖 Artificial Intelligence / Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
