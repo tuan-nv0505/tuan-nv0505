@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE 👋👋👋
+### WELCOME TO MY PAGE
 My name is Tuan Nguyen, and I am a Computer Science student majoring in Artificial Intelligence (AI).
 My main interests include Deep Learning for Computer Vision and Reinforcement Learning.<br>
 
