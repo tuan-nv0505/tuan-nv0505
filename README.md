@@ -33,3 +33,11 @@ My main interests include Deep Learning for Computer Vision and Reinforcement Le
 <a href="https://github.com/tuan-nv0505/Snake-Q-learning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Snake-Q-learning&theme=merko" />
 </a>
+
+<a href="https://github.com/tuan-nv0505/Snake-Q-learning">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Snake-Q-learning&theme=merko" />
+</a>
+
+<a href="https://github.com/tuan-nv0505/Snake-Q-learning">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Snake-Q-learning&theme=merko" />
+</a>
