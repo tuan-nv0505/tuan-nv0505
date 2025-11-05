@@ -1,6 +1,6 @@
 ### WELCOME TO MY PAGE
 My name is Tuan Nguyen, and I am a Computer Science student majoring in Artificial Intelligence (AI).
-My main interests include Deep Learning for Computer Vision and Reinforcement Learning.<br>
+My main interests include Deep Learning for Computer Vision and Natural Language Processing.<br>
 
 ## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/tuan-nguyen-bb0054357/)
