@@ -26,13 +26,13 @@ My main interests include Deep Learning for Computer Vision and Natural Language
  
 
 
-<a href="https://github.com/tuan-nv0505/Snake-double-deep-Q-learning">
+<!-- <a href="https://github.com/tuan-nv0505/Snake-double-deep-Q-learning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Snake-double-deep-Q-learning&theme=radical" />
 </a>    
 
 <a href="https://github.com/tuan-nv0505/Snake-Q-learning">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Snake-Q-learning&theme=merko" />
-</a>
+</a> -->
 
 <!-- <a href="https://github.com/tuan-nv0505/Library-Deep-Learning-Cpp">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=tuan-nv0505&repo=Library-Deep-Learning-Cpp&theme=merko" />
